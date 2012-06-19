@@ -1,0 +1,23 @@
+#question 1
+Philip Afful Nunoo
+11 / 2 =  5
+11.0/2 =  5.5
+
+#question 2
+Philip Afful Nunoo
+3 to the power of 27 =  7625597484987
+
+#question 3
+Philip Afful Nunoo
+(134533 + 6889980 -84849) to the power 3 =  334206837441656786944
+
+#question 4
+Philip Afful Nunoo
+The average time in km/s =  0.00292592592593
+The average time in km/m =  0.175555555556
+The average time in m/s  =  17.5555555556
+
+#question 5
+Philip Afful Nunoo
+The shortest distance between my friend and I in km :  6.64680374315
+The shortest distance between my friend and I in miles :  4.13013108869
